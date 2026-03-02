@@ -203,4 +203,4 @@ What it does:
 - Build frontend dashboard for farmers and admins
 
 ## Author
-Suhas
+Suhas G Mestha
